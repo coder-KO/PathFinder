@@ -1,3 +1,2 @@
-# Pathfinder
-Tracking System
+# PathfinderTracking System
 Being developed by Krishna Ojha, Puneet Gangwal & Shivam
