@@ -1,3 +1,3 @@
 # Pathfinder
-us Tracking System
+s Tracking System
 Being developed by Krishna, Puneet & Shivam
